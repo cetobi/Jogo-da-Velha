@@ -5,6 +5,4 @@ Com certeza tenho muito que melhora ainda na lógica e na organização do códi
 
 Segue umas imagens dele funcionando.
 
-![Exemplo de jogo ganho](./GIFganho.gif)
-
-![Exemplo de jogo ganho](./GIFempate.gif)
+![Exemplo de jogo ganho](./GIFganho.gif) | ![Exemplo de jogo ganho](./GIFempate.gif)
