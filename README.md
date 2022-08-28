@@ -8,4 +8,4 @@ Segue umas imagens dele funcionando.
 =======
 | Exemplo ganhando | Exemplo empate |
 |----------|----------|
-| ![Exemplo de jogo ganho](./img/GIFganho.gif) | ![Exemplo de jogo ganho](./img/GIFempate.gif) |
+| ![Exemplo de jogo ganho](./GIFganho.gif) | ![Exemplo de jogo ganho](./GIFempate.gif) |
