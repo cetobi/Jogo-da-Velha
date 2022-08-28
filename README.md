@@ -5,12 +5,7 @@ Com certeza tenho muito que melhora ainda na lógica e na organização do códi
 
 Segue umas imagens dele funcionando.
 
-<<<<<<< HEAD
-![Exemplo de jogo ganho](./img/GIFganho.gif)
-
-![Exemplo de jogo ganho](./img/GIFempate.gif)
 =======
 | Exemplo ganhando | Exemplo empate |
 |----------|----------|
-| ![Exemplo de jogo ganho](./GIFganho.gif) | ![Exemplo de jogo ganho](./GIFempate.gif) |
->>>>>>> 52adb98f7bdb41d569eab418c76be752479d9dcf
+| ![Exemplo de jogo ganho](./img/GIFganho.gif) | ![Exemplo de jogo ganho](./img/GIFempate.gif) |
